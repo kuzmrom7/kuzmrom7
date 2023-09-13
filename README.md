@@ -2,6 +2,8 @@
 
 Hi, I am Roman, a JavaScript software engineer.
 
+[View my frontend bookmars](https://romakuzmenko.notion.site/696133ad01d340ecbc3c2f72bb74c227?v=57b871bd2e4641bdbbede63a07b982ed&pvs=4)
+
 <!--
 **kuzmrom7/kuzmrom7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
